@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[GeniePool](http://geniepool.bgu.ac.il/) makes thousands of NCBI's SRA exomes accessible.
+[GeniePool](https://geniepool.link/) makes thousands of NCBI's SRA exomes accessible.
 <br>
 Enter coordinate/s or gene symbol (e.g. 11:2159779-2161221, TP53...) for variants in the database.
 <br>
